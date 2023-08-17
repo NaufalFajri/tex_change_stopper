@@ -6,4 +6,4 @@
 
 ## Usage
 - add chara name to tex_change_table.txt
-- save txt & run .bat
+- save tex_change_table.txt & run TexChangeStopper.bat
