@@ -1,5 +1,6 @@
 ## Requirement
 - [Python Latest Version](https://www.python.org/downloads/)
+- [RMM](https://github.com/SutandoTsukai181/RyuModManager)
 
 ## Installing
 
