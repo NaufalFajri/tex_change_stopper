@@ -5,7 +5,7 @@
 
 - Clone zip the repo
 - Unpack .txt, .py, .bat & mods folder into the game's directory, in the same folder as the game's executable.
-- Add DE - Tex Change Stopper to RMM & set to lowest priority
+- Add DE - Tex Change Stopper to RMM & set to highest priority
 
 ## Usage
 - open tex_change_table.txt
