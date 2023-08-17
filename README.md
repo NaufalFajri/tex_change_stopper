@@ -11,3 +11,11 @@
 - open tex_change_table.txt
 - add chara name into new line (example : c_d57_kitty01)
 - save tex_change_table.txt & run TexChangeStopper.bat
+
+# Game Supported
+- Y6 (expect ja db)
+- K2
+- JE
+- LJ
+- Gaiden (never)
+- Y8 (never)
